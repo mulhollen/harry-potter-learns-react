@@ -1,7 +1,7 @@
 import React, { useContext, useState } from "react";
 import { HogwartsContext } from "../HogwartsContext/";
 import { Link } from "react-router-dom";
-
+// need something to push
 
 const SortingHat = () => {
   const { setName } = useContext(HogwartsContext);
