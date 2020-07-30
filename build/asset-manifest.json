@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d4148e7.chunk.css",
+    "main.js": "/static/js/main.3ed9c631.chunk.js",
+    "main.js.map": "/static/js/main.3ed9c631.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.28d8b8e4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.28d8b8e4.js.map",
+    "static/js/2.94b7dbae.chunk.js": "/static/js/2.94b7dbae.chunk.js",
+    "static/js/2.94b7dbae.chunk.js.map": "/static/js/2.94b7dbae.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.99d20727c5b0e2aea2f3a70420b5f0d7.js": "/precache-manifest.99d20727c5b0e2aea2f3a70420b5f0d7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.7d4148e7.chunk.css.map": "/static/css/main.7d4148e7.chunk.css.map",
+    "static/js/2.94b7dbae.chunk.js.LICENSE.txt": "/static/js/2.94b7dbae.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/slytherin.1147ac61.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28d8b8e4.js",
+    "static/js/2.94b7dbae.chunk.js",
+    "static/css/main.7d4148e7.chunk.css",
+    "static/js/main.3ed9c631.chunk.js"
+  ]
+}
